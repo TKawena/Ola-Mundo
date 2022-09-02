@@ -3,4 +3,4 @@
 
  Oi, oi, oi !
 
-Essa linha eu adicionei ddiretamente no site!
+Essa linha eu adicionei diretamente no site!
